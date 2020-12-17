@@ -1,0 +1,12 @@
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\bin\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.deps.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\bin\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.csprojAssemblyReference.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.AssemblyInfoInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.AssemblyInfo.cs
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.csproj.CoreCompileInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\bin\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\bin\Debug\netcoreapp3.1\Employees.Domain.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\bin\Debug\netcoreapp3.1\Employees.Domain.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.csproj.CopyComplete
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.DataAcces.EFCore\obj\Debug\netcoreapp3.1\Employees.DataAcces.EFCore.pdb

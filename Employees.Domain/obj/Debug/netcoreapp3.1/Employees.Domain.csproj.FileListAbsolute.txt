@@ -1,0 +1,9 @@
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\obj\Debug\netcoreapp3.1\Employees.Domain.csprojAssemblyReference.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\obj\Debug\netcoreapp3.1\Employees.Domain.AssemblyInfoInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\obj\Debug\netcoreapp3.1\Employees.Domain.AssemblyInfo.cs
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\obj\Debug\netcoreapp3.1\Employees.Domain.csproj.CoreCompileInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\bin\Debug\netcoreapp3.1\Employees.Domain.deps.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\bin\Debug\netcoreapp3.1\Employees.Domain.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\bin\Debug\netcoreapp3.1\Employees.Domain.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\obj\Debug\netcoreapp3.1\Employees.Domain.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_ASP_NET_API_Persistence\Employees.Domain\obj\Debug\netcoreapp3.1\Employees.Domain.pdb

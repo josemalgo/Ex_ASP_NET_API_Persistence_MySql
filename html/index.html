@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Document</title>
+</head>
+
+<body>
+    <form id="employee-data" action="">
+        <fieldset>
+            <legend>Datos del empleado</legend>
+            <label for="id">Id
+                <input type="text" id="id" name="employee-id" placeholder="Id" disabled="true">
+            </label>
+            <label for="name">Nombre
+                <input type="text" id="name" name="employee-name" placeholder="Nombre">
+            </label>
+            <label for="name">Apellido
+                <input type="text" id="surname" name="employee-suername" placeholder="Apellido">
+            </label>
+            <label for="name">Posición
+                <input type="text" id="position" name="employee-position" placeholder="Posición">
+            </label>
+            <label for="name">Salario
+                <input type="text" id="salary" name="employee-salary" placeholder="Salario" pattern="[0-9,\.]+">
+            </label>
+            <div id="div-buttons">
+                <button id="btnAdd" type="submit" onclick="addEmployee()">Crear empleado</button>
+                <button id="btnEdit" type="submit" onclick="editEmployee()">Editar empleado</button>
+                <button id="btnDel" type="submit" onclick="deleteEmployee()">Eliminar empleado</button>
+            </div>
+            <div>
+                <p>Para Editar y eliminar haz click en el empleado de la tabla que quieras modificar o eliminar
+                    y los datos se mostrarán en el recuadro de datos de empleado.
+                </p>
+            </div>
+        </fieldset>
+    </form>
+    <table id="employee-table">
+    </table>
+</body>
+<script src="main.js"></script>
+
+</html>
