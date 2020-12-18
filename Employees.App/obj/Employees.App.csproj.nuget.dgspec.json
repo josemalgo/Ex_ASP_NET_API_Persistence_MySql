@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.App\\Employees.App.csproj": {}
+    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.App\\Employees.App.csproj": {}
   },
   "projects": {
-    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.App\\Employees.App.csproj": {
+    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.App\\Employees.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.App\\Employees.App.csproj",
+        "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.App\\Employees.App.csproj",
         "projectName": "Employees.App",
-        "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.App\\Employees.App.csproj",
+        "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.App\\Employees.App.csproj",
         "packagesPath": "C:\\Users\\JOSE\\.nuget\\packages\\",
-        "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.App\\obj\\",
+        "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj": {
-                "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj"
+              "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj": {
+                "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj"
               },
-              "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj": {
-                "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj"
+              "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj": {
+                "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj"
               }
             }
           }
@@ -45,19 +45,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[3.1.10, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.1, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.4, )"
+              "version": "[3.1.10, )"
             }
           },
           "imports": [
@@ -82,14 +74,14 @@
         }
       }
     },
-    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj": {
+    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj",
+        "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj",
         "projectName": "Employees.DataAcces.EFCore",
-        "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj",
+        "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.DataAcces.EFCore\\Employees.DataAcces.EFCore.csproj",
         "packagesPath": "C:\\Users\\JOSE\\.nuget\\packages\\",
-        "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.DataAcces.EFCore\\obj\\",
+        "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.DataAcces.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj": {
-                "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj"
+              "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj": {
+                "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj"
               }
             }
           }
@@ -122,11 +114,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[3.1.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[3.2.4, )"
             }
           },
           "imports": [
@@ -148,14 +140,14 @@
         }
       }
     },
-    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj": {
+    "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj",
+        "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj",
         "projectName": "Employees.Domain",
-        "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj",
+        "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj",
         "packagesPath": "C:\\Users\\JOSE\\.nuget\\packages\\",
-        "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\obj\\",
+        "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOSE\\AppData\\Roaming\\NuGet\\NuGet.Config",

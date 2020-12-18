@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj",
+      "projectUniqueName": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj",
       "projectName": "Employees.Domain",
-      "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj",
+      "projectPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj",
       "packagesPath": "C:\\Users\\JOSE\\.nuget\\packages\\",
-      "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\obj\\",
+      "outputPath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOSE\\AppData\\Roaming\\NuGet\\NuGet.Config",

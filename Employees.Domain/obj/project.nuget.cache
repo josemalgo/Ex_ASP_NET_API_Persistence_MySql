@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+t3nz8O0uP9HaofgzZB502S40yq3sr/rcUzBhX4A9dK1Xp4aSU6JRFDHHjhzEeEPxFo2xv07Pq8JDIoPcWF8A==",
+  "dgSpecHash": "Wu9jeNPWGOSCpfvdw0T64B93cTvi0b5ZCBX90kSD5qtt8Nh2YvW7+tuqDUQA6r5mTpQxNCgD0jFIWlxU40oRbA==",
   "success": true,
-  "projectFilePath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence\\Employees.Domain\\Employees.Domain.csproj",
+  "projectFilePath": "D:\\JOSE\\Documents\\IT_ACADEMY\\C#\\Ex_ASP_NET_API_Persistence_MySQL\\Employees.Domain\\Employees.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

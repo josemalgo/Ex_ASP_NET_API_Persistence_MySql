@@ -41,7 +41,7 @@ namespace Employees.App
             services.AddControllers();
 
             services.AddDbContext<EmployeeDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("SQLServerConnection"),
+            options.UseMySql(Configuration.GetConnectionString("MySQLConnection"),
             b => b.MigrationsAssembly(typeof(EmployeeDbContext).Assembly.FullName)));
 
         }
